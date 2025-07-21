@@ -743,11 +743,6 @@ ul.main__menu > li:hover > a {
         width: 125px !important;
     }
 
-    .logo a:nth-child(2){
-        margin-left: 5px !important;
-        display: none !important;
-    }
-
     .a-banner img{
         height: 52px;
         object-fit: fill;
